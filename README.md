@@ -1,3 +1,8 @@
+notepad++的portable版本+插件好评，可以到处带着设置走的生产工具。
+有一个使用体验很好，那就是下方的操作窗口，可以查看文件是否已经成功更改上传，以免有时发生运行尚未修改完成的版本这种问题，导致巨大的麻烦。
+
+---
+
 # NppFTP
 Plugin for Notepad++ allowing FTP, FTPS, FTPES and SFTP communications
 
